@@ -1,5 +1,7 @@
 # MyGPTs
 
+If you want to search other GPTs, google `<keyword> site:http://chat.openai.com/g`
+
 ## English
 
 [File Format Transformer](https://chat.openai.com/g/g-RLW91oAoA-file-format-transformer): A digital format conversion expert. [image](https://github.com/gantrol/MyGPTs/issues/3) (文件格式工厂)
